@@ -1,1 +1,0 @@
-import{_ as s,i as e,I as r,x as t,m as l,v as o,y as p,J as d}from"./entry.5b1fb7cb.js";const f={};function u(n,m){const a=e("v-app-bar"),c=e("v-content"),_=e("v-app");return l(),r(_,null,{default:t(()=>[o(a,null,{default:t(()=>[p("Women In Tech Liverpool")]),_:1}),o(c,null,{default:t(()=>[d(n.$slots,"default")]),_:3})]),_:3})}const i=s(f,[["render",u]]);export{i as default};
